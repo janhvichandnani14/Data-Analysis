@@ -19,4 +19,4 @@ To use SQL queries to analyze the music store's database and answer key business
 
 Database schema:
 
-
+![Music store schema](https://github.com/janhvichandnani14/Data-Analysis/blob/9bf22c422fd46661d8b0988cf4c9e6621e48dba7/schema.png)
